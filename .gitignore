@@ -1,0 +1,32 @@
+#Built app files
+*.apk
+*.ap_
+
+#Files for the dex VM
+*.dex
+
+#Generated files
+bin/
+gen/
+
+#Local properties
+/local.properties
+
+#Windows files
+Thumbs.db
+
+#OSX files
+.DS_Store
+
+#Android studio files
+*.iml
+.idea
+.gradle
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+build/
+.navigation
+captures/
+output.json
